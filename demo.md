@@ -26,10 +26,24 @@ Unorder List:
 - Item 1
 - Item 2
 
-Links:
+## Links:
 
 [My Instagram](https://www.instagram.com/bhargav_3_suthar/)
 
-Images:
+## Images:
 
 ![Alt Image Description](laptop.jpeg)
+
+## Code
+
+```javascript
+// This is Javascript code
+alert("Hello World");
+```
+
+## Tables
+| Name | Rate |
+|------|------|
+|SQL | 10|
+| JS | 10|
+| Java| 8|
