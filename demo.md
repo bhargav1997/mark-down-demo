@@ -47,3 +47,9 @@ alert("Hello World");
 |SQL | 10|
 | JS | 10|
 | Java| 8|
+
+## Little Code
+Name | Rate 
+------|------
+SQL | 10
+JS | 10
