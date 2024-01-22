@@ -32,4 +32,4 @@ Links:
 
 Images:
 
-![Alt Image Description]()
+![Alt Image Description](laptop.jpeg)
